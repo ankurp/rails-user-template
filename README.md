@@ -19,3 +19,18 @@ You can also fork the repo and make changes and point to your own template or do
 ```
 rails new AwesomeApp -m ./rails-user-template/template.rb
 ```
+
+### Features
+The user model has the following functionality built out
+1. New Signup
+2. Login
+3. Logout
+4. Edit Password
+5. Reset Password
+
+## Screenshots
+
+![Screenshot 2024-01-02 at 7 28 31 PM](https://github.com/ankurp/rails-user-template/assets/498669/74d867ed-4c73-417b-8dd9-8b32db29b581)
+![Screenshot 2024-01-02 at 7 29 02 PM](https://github.com/ankurp/rails-user-template/assets/498669/fb3d69bf-73df-49cf-bd83-3249810a0ac1)
+![Screenshot 2024-01-02 at 7 29 06 PM](https://github.com/ankurp/rails-user-template/assets/498669/c3550bde-1d8b-47ff-891a-49d1443b0c8d)
+
